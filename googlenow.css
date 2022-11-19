@@ -1,0 +1,186 @@
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 25px;
+    margin-top: 20px;
+    font-family: arial;
+    font-size: 14px;
+}
+
+.box{
+    margin: 10px;
+    
+}
+
+a{
+    color: #5f6368;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    line-height: 24px;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+img#bar{
+    width: 25px;
+}
+
+#bar:hover{
+    opacity: 0.8;
+}
+
+button.profil{
+    background-color: #4b91ec;
+    border-radius: 5px;
+    height: 30px;
+    border-color: #f2f2f2;
+}
+
+.center{
+    margin-top: 120px;
+    margin-right: 10px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.search{
+    width: 580px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+.w-search{
+    display: block;
+    border: 3px solid #ddd;
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 16px;
+    padding: 13px;
+    padding-left: 45px;
+    border-radius: 25px;
+    width: 100%;
+    outline: none;
+}
+
+.w-search:hover{
+    box-shadow: 2px 2px 5px grey;
+}
+
+.search-icon{
+    width: 20px;
+    opacity: 0.4;
+    position: absolute;
+    top: 13px;
+    left: 14px;
+}
+
+.microphone{
+    width: 18px;
+    position: absolute;
+    top: 13px;
+    right: -35px;
+}
+
+.microphone:hover{
+    opacity: 0.8;
+}
+
+.keyboard{
+    width: 30px;
+    position: absolute;
+    top: 13px;
+    right: -5px;
+}
+
+.keyboard:hover{
+    opacity: 0.8;
+}
+
+img.input{
+    width: 20px;
+}
+
+.button{
+    text-align: center;
+    margin-left: 30px;
+}
+
+button.bt{
+    border: 1px solid transparent;
+    padding: 9px 15px;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 28px;
+    cursor: pointer;
+}
+
+button.bt:hover{
+    border: 1px solid #aaa;
+}
+
+footer{
+    background-color: #f2f2f2;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 110px;
+}
+
+h4{
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 15px;
+    line-height: 10px;
+    font-weight: 200;
+    padding-left: 29px;
+    border: 1px solid #eee;
+}
+
+a.ab{
+    color: #5f6368;
+    display: inline-block;
+    padding: 12px 11px;
+    font-style: 14px;
+    text-decoration: none;
+}
+
+a.ab:hover{
+    text-decoration: underline;
+}
+
+.altbilgi{
+    border-top: 1px solid #ddd;
+    display: flex;
+}
+
+.ab-1{
+    padding-left: 18px;
+    flex: 1;
+}
+
+.ab-2{
+    padding-right: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
